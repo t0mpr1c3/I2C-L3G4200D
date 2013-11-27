@@ -202,7 +202,7 @@
 <wire x1="45.7835" y1="3.8735" x2="22.2885" y2="3.8735" width="0" layer="49"/>
 <wire x1="25.4635" y1="24.1935" x2="25.4635" y2="0.6985" width="0" layer="49"/>
 <wire x1="42.6085" y1="24.1935" x2="42.6085" y2="0.6985" width="0" layer="49"/>
-<text x="24.8285" y="14.986" size="1.27" layer="22" font="vector" ratio="15" rot="MR270">GY01</text>
+<text x="24.8285" y="14.986" size="1.27" layer="22" font="vector" ratio="15" rot="MR270">IG01</text>
 <text x="30.7975" y="5.461" size="1.016" layer="21" font="vector" ratio="15" rot="R90">GND</text>
 <text x="33.3375" y="5.461" size="1.016" layer="21" font="vector" ratio="15" rot="R90">VCC</text>
 <text x="35.8775" y="5.461" size="1.016" layer="21" font="vector" ratio="15" rot="R90">SCL</text>
